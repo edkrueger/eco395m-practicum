@@ -1,0 +1,6 @@
+Hi, my name is Chia-Sheng (Oscar), Tu. I'm familiar with:
+1. Data ETL in SQL SSMS & R
+2. Data Visualization in Power BI & R
+3. Various analytical tools in R 
+
+Also, I took courses like Python, Databases and Big Data, and Data Mining/Stat Learning in previous semesters.
