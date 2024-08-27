@@ -43,7 +43,6 @@ The course aims to assist students in achieving the following objectives:
 * Enhance portfolios with hands-on experience and practical projects showcasing data science expertise.
 * Foster the development of insights and networking connections that can have a positive impact on one's professional journey.
 
-
 ## Course Policies
 
 ### Confidentiality
@@ -69,21 +68,19 @@ Some examples include:
 * Joining or arriving at internal team meetings within 5 minutes of the agreed start times.
 * Posting progress, or lack thereof, daily or on alternate days to Discord.
 
-A part of your grade will be accessed by your team members in weekly peer reviews, so it is important to meet their expectations.
-
 ### Attendance and Standup
 
-Each week your team will have a 30-minute standup with me during class time. The timing and day of the standup may fluctuate based on constraints such as meeting with industry partners.  
+Each week your team will have a 30-minute standup with me during class time on Tuesdays. The timing and day of the standup may fluctuate based on constraints such as meeting with industry partners.  
 You are expected to attend every class standup for your team, however, you will be allotted 1 absence from standup without the need to explain it. However, you should notify your team and your instructor.
 Unless a prior agreement is made with both the team and your instructor, any further absences from standup will result in a loss of 10% of your final course grade each.
+
+On Thursdays, each team meber will report thier progress on Discord.
 
 ### Grading
 
 Grades will be based on:
-* Midterm Deliverable/Presentation (20%)
-* Final Deliverable/Presentation (40%)
-* Weekly Standup -- Group Component (20%)
-* Weekly Standup -- Individual Peer-graded Component (20%)
+* Midterm Deliverable/Presentation (40%)
+* Final Deliverable/Presentation (60%)
 
 Final grades will be determined on the basis of the following rubric.  
 
@@ -101,46 +98,6 @@ Some examples of evaluation criteria I find important see these project rubrics 
 * https://github.com/edkrueger/eco395m/blob/main/projects/final-project.md
 
 Industry partners may also include some evaluation criteria relating to particular projects.
-
-### Weekly Standup -- Group Component
-
-After every standup, the instructor will evaluate your group's progress based on the following criteria and scale.
-
-Criteria:
-* Communication
-* Accountability
-* Quantity of Contributions
-* Quality of Contributions
-
-Scale:
-* Unsatisfactory (1 point)
-* Needs Improvement (2 points)
-* Satisfactory (3 points)
-* Good (4 points)
-* Excellent (5 points)
-
-Therefore you will receive up to 20 points per standup and the results will be averaged across the standups you attend for up to 20% of your course grade.
-
-### Weekly Standup -- Individual Peer-graded Component
-
-At the end of standup, you'll anonymously evaluate every member of your group on the following criteria based on the previous week assigning a score based on a 5-point scale.
-
-Criteria:
-* Communication
-* Accountability
-* Quantity of Contributions
-* Quality of Contributions
-
-Scale:
-* Unsatisfactory (1 point)
-* Needs Improvement (2 points)
-* Satisfactory (3 points)
-* Good (4 points)
-* Excellent (5 points)
-
-Therefore you will receive up to 20 points per standup and the results will be averaged across the standups you attend for up to 20% of your course grade.
-
----
 
 # University Disclosures and Policies
 
