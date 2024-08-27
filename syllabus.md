@@ -14,7 +14,7 @@ Class will be held in person in **BRB 2.136**.
 
 * Email: edwardkrueger@utexas.edu
 * Office Hours: Tuesdays and Thursdays 5:00pm - 5:45pm CT
-* Office Hours Location: TBD
+* Office Hours Location: BRB 1.118
 
 ---
 
