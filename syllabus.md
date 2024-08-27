@@ -1,6 +1,6 @@
 # ECO 395m: Data Science Practicum
 
-Unique Number: 34967
+Unique Number: 34215
 
 Course Website: https://github.com/edkrueger/eco395m-practicum
 
@@ -8,7 +8,7 @@ Course Website: https://github.com/edkrueger/eco395m-practicum
 
 Class will meet Tuesday and Thursday **2:00pm - 3:30pm CT**.  
 
-Class will be held in person in **CBA 4.346**.  
+Class will be held in person in **BRB 2.136**.  
 
 ## Instructor: Edward Krueger
 
