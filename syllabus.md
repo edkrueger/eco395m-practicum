@@ -70,7 +70,7 @@ Some examples include:
 
 ### Attendance and Standup
 
-Each week your team will have a 30-minute standup with me during class time on Tuesdays. The timing and day of the standup may fluctuate based on constraints such as meeting with industry partners.  
+Each week your team will have a standup with me during class time on Tuesdays. The timing and day of the standup may fluctuate based on constraints such as meeting with industry partners.  
 You are expected to attend every class standup for your team, however, you will be allotted 1 absence from standup without the need to explain it. However, you should notify your team and your instructor.
 Unless a prior agreement is made with both the team and your instructor, any further absences from standup will result in a loss of 10% of your final course grade each.
 
